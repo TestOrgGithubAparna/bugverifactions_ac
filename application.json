@@ -9,6 +9,10 @@
   "icon": "book",
   "pages": [
     {
+      "id": "Investors",
+      "isDefault": false
+    },
+    {
       "id": "Bug14620",
       "isDefault": false
     },
